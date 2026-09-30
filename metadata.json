@@ -1,0 +1,6 @@
+{
+  "name": "SafeLedger",
+  "description": "Secure, offline-first personal finance manager with expense tracking, budgeting, savings goals, financial tips, PIN protection, and local encrypted backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
